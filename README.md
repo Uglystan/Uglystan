@@ -28,4 +28,3 @@ Hello there ! I'm Lucas Girault, currently pursuing my education at Ecole 42. My
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 <img src="">
-<img src=""><iframe src="https://giphy.com/embed/VgAwA8FsMDdpC540BQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/letter-mail-penpal-VgAwA8FsMDdpC540BQ">via GIPHY</a></p>

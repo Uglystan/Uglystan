@@ -12,6 +12,9 @@ Hello there ! I'm Lucas Girault, currently pursuing my education at Ecole 42. My
 <a href="mailto:lucasgirault2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<a href="[mailto:lucasgirault2@gmail.com](https://www.codingame.com/profile/ba9f722d5bc802415665fc12b12802015551175)">
+    <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white">
+</a>
 <br>
 
 

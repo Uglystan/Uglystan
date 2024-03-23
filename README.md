@@ -39,8 +39,5 @@ Hello there ! I'm Lucas Girault, currently pursuing my education at Ecole 42. My
 <p align="center">
 <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
-<img src="">
-<img src="">
-<img src="">
 
 # &nbsp;<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVnOHlxaTE3MnI2YmtkczRid3N2cGVmZjFlMGU2cjR1bWNianVzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JscA27pcDdfubFImYj/giphy.gif" width ="30"> Project

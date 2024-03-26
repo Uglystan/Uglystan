@@ -42,4 +42,4 @@ Hello there ! I'm Lucas Girault, currently pursuing my education at Ecole 42. My
 
 # &nbsp;<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVnOHlxaTE3MnI2YmtkczRid3N2cGVmZjFlMGU2cjR1bWNianVzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JscA27pcDdfubFImYj/giphy.gif" width ="30"> Project
 
-### Push_Swap
+### &nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXYzbWhjeWVmcHBmaHh1NTd5YnByYXBwM2RwMjZxeGY0bGRnM2g5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QQm4qVLlslbSvJxhdF/giphy.gif" width ="30"> Push_Swap

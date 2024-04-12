@@ -45,4 +45,4 @@ Hello there ! I'm Lucas Girault, currently pursuing my education at Ecole 42. My
 ### &nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXYzbWhjeWVmcHBmaHh1NTd5YnByYXBwM2RwMjZxeGY0bGRnM2g5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QQm4qVLlslbSvJxhdF/giphy.gif" width ="30"> [Push_Swap](https://github.com/Uglystan/push_swap)
  Trier des données sur une pile, avec un set d’instructions limité, en moins de coups possibles.
  <br>
- ![Screenshot from 2024-03-26 17-23-51](https://github.com/Uglystan/Push_swap/assets/117684814/19125a29-a099-4466-8dda-e4d2dbc6f83d)
+ ![Screenshot from 2024-03-26 18-21-04](https://github.com/Uglystan/Push_swap/assets/117684814/9409c0d5-4405-4d23-adf0-dd8b861c55c6)

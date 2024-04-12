@@ -43,8 +43,10 @@ Hello there ! I'm Lucas Girault, currently pursuing my education at Ecole 42. My
 # &nbsp;<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVnOHlxaTE3MnI2YmtkczRid3N2cGVmZjFlMGU2cjR1bWNianVzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JscA27pcDdfubFImYj/giphy.gif" width ="30"> Project
 
 ### &nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXYzbWhjeWVmcHBmaHh1NTd5YnByYXBwM2RwMjZxeGY0bGRnM2g5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QQm4qVLlslbSvJxhdF/giphy.gif" width ="30"> [Push_Swap](https://github.com/Uglystan/push_swap)
- Trier des données sur une pile, avec un set d’instructions limité, en moins de coups possibles.
+ Sort data on a stack, with a limited set of instructions, in fewer possible moves.
  <br>
  ![Screenshot from 2024-03-26 18-21-04](https://github.com/Uglystan/Push_swap/assets/117684814/9409c0d5-4405-4d23-adf0-dd8b861c55c6)
 
 ### &nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThwa3A5cTYxZjF2Z2g3bDRxaGV3em56MXNqYXhodjN0bGU2bmo3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AnprTo6bYodnRiflAR/giphy.gif" width ="30"> [ARP Spoofing](https://github.com/Uglystan/ft_malcolm)
+Introduction to network security. This program aims to falsify the ARP tables of other machines on the network.
+

@@ -42,15 +42,15 @@ Hello there ! I'm Lucas Girault, currently pursuing my education at Ecole 42. My
 
 # &nbsp;<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVnOHlxaTE3MnI2YmtkczRid3N2cGVmZjFlMGU2cjR1bWNianVzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JscA27pcDdfubFImYj/giphy.gif" width ="30"> Project
 
-### &nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXYzbWhjeWVmcHBmaHh1NTd5YnByYXBwM2RwMjZxeGY0bGRnM2g5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QQm4qVLlslbSvJxhdF/giphy.gif" width ="30"> [Push_Swap](https://github.com/Uglystan/push_swap)
+### &nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXYzbWhjeWVmcHBmaHh1NTd5YnByYXBwM2RwMjZxeGY0bGRnM2g5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QQm4qVLlslbSvJxhdF/giphy.gif" width ="30"> [Push_Swap (C)](https://github.com/Uglystan/push_swap)
  Sort data on a stack, with a limited set of instructions, in fewer possible moves.
  <br>
  ![Screenshot from 2024-03-26 18-21-04](https://github.com/Uglystan/Push_swap/assets/117684814/9409c0d5-4405-4d23-adf0-dd8b861c55c6)
 
-### &nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThwa3A5cTYxZjF2Z2g3bDRxaGV3em56MXNqYXhodjN0bGU2bmo3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AnprTo6bYodnRiflAR/giphy.gif" width ="30"> [ARP Spoofing](https://github.com/Uglystan/ft_malcolm)
+### &nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThwa3A5cTYxZjF2Z2g3bDRxaGV3em56MXNqYXhodjN0bGU2bmo3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AnprTo6bYodnRiflAR/giphy.gif" width ="30"> [ARP Spoofing (C)](https://github.com/Uglystan/ft_malcolm)
 Introduction to network security. This program aims to falsify the ARP tables of other machines on the network.
 ![Capture d’écran du 2024-04-12 15-18-18](https://github.com/Uglystan/Uglystan/assets/117684814/422e586c-1b40-4334-8f99-713444f70e33)
 
-### &nbsp;<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJnMmMzYnkxZjg0ZWJsOHR4bWZiaHpuZGxhdGd4a3FoenEweWU2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/495NFvh8Vme0O6z32y/giphy.gif" width ="30"> [Image Scraper](https://github.com/Uglystan/Piscine-Cyber/blob/main/Arachnida/spider.py)
+### &nbsp;<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJnMmMzYnkxZjg0ZWJsOHR4bWZiaHpuZGxhdGd4a3FoenEweWU2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/495NFvh8Vme0O6z32y/giphy.gif" width ="30"> [Image Scraper(Python)](https://github.com/Uglystan/Piscine-Cyber/blob/main/Arachnida/spider.py)
 Program that allows retrieving and storing in a folder all the images from a URL and the URLs from that URL (recursively).
 ![Screenshot from 2024-04-27 15-27-35](https://github.com/Uglystan/Uglystan/assets/117684814/1c06af51-3e88-4ff2-b465-64f3c6a016c9)

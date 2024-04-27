@@ -51,6 +51,6 @@ Hello there ! I'm Lucas Girault, currently pursuing my education at Ecole 42. My
 Introduction to network security. This program aims to falsify the ARP tables of other machines on the network.
 ![Capture d’écran du 2024-04-12 15-18-18](https://github.com/Uglystan/Uglystan/assets/117684814/422e586c-1b40-4334-8f99-713444f70e33)
 
-### &nbsp;<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJnMmMzYnkxZjg0ZWJsOHR4bWZiaHpuZGxhdGd4a3FoenEweWU2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/495NFvh8Vme0O6z32y/giphy.gif" width ="30"> [Image Scraper(Python)](https://github.com/Uglystan/Piscine-Cyber/blob/main/Arachnida/spider.py)
+### &nbsp;<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJnMmMzYnkxZjg0ZWJsOHR4bWZiaHpuZGxhdGd4a3FoenEweWU2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/495NFvh8Vme0O6z32y/giphy.gif" width ="30"> [Image Scraper (Python)](https://github.com/Uglystan/Piscine-Cyber/blob/main/Arachnida/spider.py)
 Program that allows retrieving and storing in a folder all the images from a URL and the URLs from that URL (recursively).
 ![Screenshot from 2024-04-27 15-27-35](https://github.com/Uglystan/Uglystan/assets/117684814/1c06af51-3e88-4ff2-b465-64f3c6a016c9)

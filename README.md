@@ -56,3 +56,6 @@ Program that allows retrieving and storing in a folder all the images from a URL
 ![Screenshot from 2024-04-27 15-27-35](https://github.com/Uglystan/Uglystan/assets/117684814/1c06af51-3e88-4ff2-b465-64f3c6a016c9)
 
 ### &nbsp;<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdobmF1bXZ5bW9tY3VhOGw5ZndkbG1xdnI2Zml4a20wenBweWJ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mVpTVJBUKjkeuPQDzz/giphy.gif" width ="30"> [Game of Life (Python)](https://github.com/Uglystan/GameLife)
+The Game of Life is a cellular automaton one interacts with the Game of Life by creating an initial configuration and observing how it evolves
+https://github.com/Uglystan/Uglystan/assets/117684814/91562baa-fda2-4250-b15f-7fb7b6572e62
+

@@ -55,4 +55,4 @@ Introduction to network security. This program aims to falsify the ARP tables of
 Program that allows retrieving and storing in a folder all the images from a URL and the URLs from that URL (recursively).
 ![Screenshot from 2024-04-27 15-27-35](https://github.com/Uglystan/Uglystan/assets/117684814/1c06af51-3e88-4ff2-b465-64f3c6a016c9)
 
-### &nbsp;<img src="" width ="30"> [Game of Life (Python)](https://github.com/Uglystan/GameLife)
+### &nbsp;<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdobmF1bXZ5bW9tY3VhOGw5ZndkbG1xdnI2Zml4a20wenBweWJ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mVpTVJBUKjkeuPQDzz/giphy.gif" width ="30"> [Game of Life (Python)](https://github.com/Uglystan/GameLife)
